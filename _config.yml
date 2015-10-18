@@ -13,7 +13,7 @@ markdown: kramdown
 #
 title : Aura for PHP
 tagline: Independent Component Packages for PHP 5.4
-description : AuraPHP中文站,AuraPHP,为高性能的应用程序而生的高性能工具,为高质量的应用程序而生的高质量工具
+description : "AuraPHP中文站,AuraPHP,为高性能的应用程序而生的高性能工具,为高质量的应用程序而生的高质量工具"
 author :
   name : Aura
   email : auraphp.cn@gmail.com
