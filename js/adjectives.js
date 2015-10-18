@@ -11,6 +11,6 @@ $(function ($) {
     var adjLower = adjectives[Math.floor(adjectives.length * Math.random())];
     // var adjUpper = adjLower[0].toUpperCase() + adjLower.slice(1);
     $('<span />', {
-        html: '为' + adjLower + '的应用程序而生的' + adjLower + '的工具'
+        html: '为' + adjLower + '的应用程序而生的' + adjLower + '工具'
     }).appendTo('#adjectives');
 });
