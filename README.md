@@ -1,3 +1,1 @@
-# auraphp.cn
-Static pages for github site http://auraphp.cn
-
+This is the [auraphp.cn](http://auraphp.cn) website repo.
