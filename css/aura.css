@@ -4,11 +4,11 @@ body {
 }
 
 h1 {
-    margin-bottom: 16px;
+    margin-bottom:0 auto;
 }
 
 h2 {
-    padding-top: 16px;
+    padding-top: 0 auto;
 }
 
 a {
@@ -20,13 +20,13 @@ code {
 }
 
 pre {
-    margin-left: 2em;
-    margin-right: 4em;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
     overflow: auto;
 }
 
 .hero-logo {
-    padding-top: 10px;
+    padding-top:0 auto;
     text-align: center;
 }
 
@@ -35,7 +35,7 @@ pre {
 }
 
 #packages table {
-    margin-bottom: 24px;
+    margin-bottom:0 auto;
 }
 
 #packages table caption {
@@ -67,7 +67,7 @@ pre {
 
 .contributor_thumbnail {
     float: left;
-    margin-left: -60px;
+    margin-left: 0 auto;
 }
 
 .contributor {
@@ -81,37 +81,37 @@ pre {
 }
 
 #posts-collate h3 {
-    margin-left: 12px;
+    margin-left: auto;
 }
 
 #posts-collate li {
-    margin-left: 24px;
+    margin-left: auto;
 }
 
 nav table tr {
     border-top: none;
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
 }
 
 nav table tr th {
     border: none;
-    margin: 0;
+    margin: 0 auto;
     padding: 6px 13px;
 }
 
 nav table tr td {
     border: none;
-    margin: 0;
+    margin: 0 auto;
     padding: 6px 13px;
 }
 
 nav table tr th :first-child, table tr td :first-child {
-    margin-top: 0;
+    margin-top: 0 auto;
 }
 
 nav table tr th :last-child, table tr td :last-child {
-    margin-bottom: 0;
+    margin-bottom: auto auto;
 }
 
 nav table {
