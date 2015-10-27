@@ -4,7 +4,7 @@ active: about
 title:  About
 ---
 
-# About Aura
+# 关于 Aura
 
 The Aura project centers around a collection of high-quality, well-tested, [semantically versioned](http://semver.org), [standards-compliant](/contributing#standards), independent library packages that can be used in any codebase.
 
@@ -14,7 +14,7 @@ Whereas library packages have no dependencies, `*_Bundle` packages combine other
 
 Finally, Aura 2.x provides `*_Kernel` and `*_Project` packages. These compose the [2.x framework](/framework/2.x/en); they depend on the foundational libraries as well as external packages.
 
-## History
+## Aura 历史
 
 Aura 1.x began as a rewrite of [Solar](http://solarphp.com), reimagined as a library collection with dependency injection instead of a monolithic framework with service location. (The name change from Solar to Aura was to reduce confusion with the Apache Solr project.) The libraries, once finished, were combined into the [1.x framework](/framework/1.x/en/).
 
